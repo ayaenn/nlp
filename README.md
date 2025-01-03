@@ -135,8 +135,8 @@ The performance of the models was evaluated using metrics such as accuracy durin
 1. **Clone the Repository**  
    - Use the following command to clone the repository:
      ```bash
-     git clone https://github.com/ayaenn/nlpProject .git
-     cd nlpProject 
+     git clone https://github.com/ayaenn/nlp.git
+     cd nlp
      ```
 
 2. **Create a Virtual Environment**  
