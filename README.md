@@ -122,13 +122,13 @@ The performance of the models was evaluated using metrics such as accuracy durin
 
 2. **LSTM**
    - Training Progress:
-     - Best Validation Accuracy: **78.65%** (Epoch 7)
+     - Best Validation Accuracy: **78.65%** 
    - The LSTM model provided stable results but slightly underperformed compared to BERT.
 
 3. **CNN**
    - Training Progress:
-     - Best Validation Accuracy: **80.36%** (Epoch 9)
-     - Achieved higher training accuracy (94.29% at Epoch 10)
+     - Best Validation Accuracy: **80.36%** 
+     - Achieved training accuracy (94.29% )
 
 ## 🚀 Installation
 
