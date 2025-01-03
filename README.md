@@ -122,21 +122,21 @@ The performance of the models was evaluated using metrics such as accuracy durin
 
 2. **LSTM**
    - Training Progress:
-     - Best Validation Accuracy: **78.65%** (Epoch 7)
+     - Best Validation Accuracy: **78.65%** 
    - The LSTM model provided stable results but slightly underperformed compared to BERT.
 
 3. **CNN**
    - Training Progress:
-     - Best Validation Accuracy: **80.36%** (Epoch 9)
-     - Achieved higher training accuracy (94.29% at Epoch 10)
+     - Best Validation Accuracy: **80.36%** 
+     - Achieved training accuracy (94.29% )
 
 ## 🚀 Installation
 
 1. **Clone the Repository**  
    - Use the following command to clone the repository:
      ```bash
-     git clone https://github.com/ayaenn/nlpProject .git
-     cd nlpProject 
+     git clone https://github.com/ayaenn/nlp.git
+     cd nlp
      ```
 
 2. **Create a Virtual Environment**  
