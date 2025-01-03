@@ -23,6 +23,7 @@ The project stands out by utilizing a multilingual model (cardiffnlp/twitter-xlm
 
 ## 📁 Project Structure
 
+```bash
 Project-NLP/
 ├── models/                    # Pre-trained models for sentiment analysis
 │   ├── bert_classifier_model.pt
