@@ -211,27 +211,29 @@ Refer to `requirements.txt` for a complete list of dependencies.
 ### Accueil
 ![Accueil](interfaceDemo/Accueil.png)
 
-### Dashboard Trend 1
-![Dashboard Trend 1](interfaceDemo/Dashboard_trend1.png)
-
-### Dashboard Trend 2
-![Dashboard Trend 2](interfaceDemo/Dashboard_trend2.png)
-
-### Dashboard Trend 3
-![Dashboard Trend 3](interfaceDemo/Dashboard_trend3.png)
-
-### Dashboard Trend 4
-![Dashboard Trend 4](interfaceDemo/Dashboard_trend4.png)
-
-### Dashboard Trend 5
-![Dashboard Trend 5](interfaceDemo/Dashboard_trend5.png)
-
 ### Link Scraper
 ![Link Scraper](interfaceDemo/linkScraper.png)
 
 ### Trend Scraper
 ![Trend Scraper](interfaceDemo/trendScraper.png)
 
+
+### Dashboard Trend 1
+![Dashboard Trend 1](interfaceDemo/Dashboard_trend1.png)
+
+
+### Dashboard Trend 3
+![Dashboard Trend 3](interfaceDemo/Dashboard_trend3.png)
+
+
+### Dashboard Trend 5
+![Dashboard Trend 5](interfaceDemo/Dashboard_trend5.png)
+
+### Dashboard Trend 4
+![Dashboard Trend 4](interfaceDemo/Dashboard_trend4.png)
+
+### Dashboard Trend 2
+![Dashboard Trend 2](interfaceDemo/Dashboard_trend2.png)
 
 
 
